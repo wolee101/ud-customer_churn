@@ -63,3 +63,5 @@ You need to install the following Spark, Python, and visualization packages and 
     *   [https://spark.apache.org/docs/2.1.0/mllib-evaluation-metrics.html](https://spark.apache.org/docs/2.1.0/mllib-evaluation-metrics.html)
 *   For plotting metrics:
     *   [https://stackoverflow.com/questions/54425084/pyspark-get-threshold-cuttoff-values-for-each-point-in-roc-curve](https://stackoverflow.com/questions/54425084/pyspark-get-threshold-cuttoff-values-for-each-point-in-roc-curve)
+
+## **Link to the Medium post: https://medium.com/@wolee/what-is-customer-churn-7ae8c01efc7f
