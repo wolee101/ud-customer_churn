@@ -43,9 +43,7 @@ The fictitious Sparkify customer event data provided by Udacity was used (mini d
 *   Logistic Regression, Random Forest, and Gradient-Boosted Classifiers trained to predict customer churn rates
  
 
-
-### 
-**Dependencies and Installation**
+### **Dependencies and Installation**
 
 You need to install the following Spark, Python, and visualization packages and libraries:
 
