@@ -35,7 +35,7 @@ In this project, I examined the customer data of Sparkify, an online music app s
 
 **Dataset used:**
 
-The fictitious Sparkify customer event data provided by Udacity was used (mini dataset). This data included the demographic and activity information of customers on the music app site. 
+The fictitious Sparkify customer event data provided by Udacity was used (mini dataset). This data included the demographic and activity information of customers on the music app site and can be found here: s3n://udacity-dsnd/sparkify/mini_sparkify_event_data.json
 
 **Analyses used:**
 
