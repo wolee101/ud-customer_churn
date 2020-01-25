@@ -64,4 +64,4 @@ You need to install the following Spark, Python, and visualization packages and 
 *   For plotting metrics:
     *   [https://stackoverflow.com/questions/54425084/pyspark-get-threshold-cuttoff-values-for-each-point-in-roc-curve](https://stackoverflow.com/questions/54425084/pyspark-get-threshold-cuttoff-values-for-each-point-in-roc-curve)
 
-**Link to the Medium post: https://medium.com/@wolee/what-is-customer-churn-7ae8c01efc7f
+**Link to the Medium post:** https://medium.com/@wolee/what-is-customer-churn-7ae8c01efc7f
