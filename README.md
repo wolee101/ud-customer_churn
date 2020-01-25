@@ -20,12 +20,9 @@ The goal of this capstone project is to build a model that predicts customer seg
 
 What is customer churn? Simply put, customer churn is a loss of customers. In the world of business, customer churn is a big concern because it is directly related to profitability. When customers discontinue service or chose a competitor, it leads to decreases in revenue. The difficulty is determining the cause of such customer attrition because it is likely to be a combination of multiple factors, not a single cause.
 
-It is a challenging problem to predict who will discontinue their relationship with businesses based on the data collected from customers. As is always the case in any given industry or organization, retaining existing customers can be much harder than acquiring new ones. Thus, predicting churn rates is important so that the loss doesn’t result in a significant decline in revenue or brand image.
-
 In this project, I examined the customer data of Sparkify, an online music app service, and built several models to figure out the factors that influence customer churn rates. The best performing model was chosen and tuned for final selection. The dataset was provided by Udacity as part of the Data Science Nanodegree Capstone project. Below are my research questions.
 
 **Research Questions:**
-
 
 
 1. Are there any differences between churned and non-churned customers in their demographic and paid service status?
