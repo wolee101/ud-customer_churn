@@ -44,7 +44,7 @@ The fictitious Sparkify customer event data provided by Udacity was used (mini d
  
 
 
-## 
+### 
 **Dependencies and Installation**
 
 You need to install the following Spark, Python, and visualization packages and libraries:
@@ -58,7 +58,7 @@ You need to install the following Spark, Python, and visualization packages and 
 *   seaborn: pip install seaborn
 
 
-## **Acknowledgments**
+### **Acknowledgments**
 
 
 
