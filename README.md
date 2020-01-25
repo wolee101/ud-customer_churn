@@ -39,17 +39,21 @@ The fictitious Sparkify customer event data provided by Udacity was used (mini d
 
 **Analyses used:**
 
-Descriptive, regression, and classification analyses
+*   Descriptive analyses to compare churned and no-churned customer groups
+*   Logistic Regression, Random Forest, and Gradient-Boosted Classifiers trained to predict customer churn rates
+ 
 
 
 ## 
 **Dependencies and Installation**
 
-You need to install the following python, nlp, and visualization packages and libraries:
+You need to install the following Spark, Python, and visualization packages and libraries:
 
 
 
-*   pyspark
+*   PySpark: pip install pyspark
+*   Scikit-learn: pip install scikit-learn
+*   Pandas: pip install pandas
 *   matplot: pip install matplotlib
 *   seaborn: pip install seaborn
 
