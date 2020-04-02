@@ -1,13 +1,13 @@
-README.md - Customer churn prediction using Spark 
+README.md - Customer churn prediction using Spark
 
 
-## 
+##
 **Project Title**
 
-Predicting Customer Churn (Udacity Data Science Course Capstone project). 
+Predicting Customer Churn (Udacity Data Science Course Capstone project).
 
 
-## 
+##
 **Description**
 
 
@@ -38,7 +38,7 @@ The fictitious Sparkify customer event data provided by Udacity was used (mini d
 
 *   Descriptive analyses to compare churned and no-churned customer groups
 *   Logistic Regression, Random Forest, and Gradient-Boosted Classifiers trained to predict customer churn rates
- 
+
 
 ### **Dependencies and Installation**
 
@@ -49,8 +49,8 @@ You need to install the following Spark, Python, and visualization packages and 
 *   PySpark: pip install pyspark
 *   Scikit-learn: pip install scikit-learn
 *   Pandas: pip install pandas
-*   matplot: pip install matplotlib
-*   seaborn: pip install seaborn
+*   Matplot: pip install matplotlib
+*   Seaborn: pip install seaborn
 
 
 ### **Acknowledgments**
