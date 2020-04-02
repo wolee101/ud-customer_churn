@@ -49,8 +49,8 @@ You need to install the following Spark, Python, and visualization packages and 
 *   PySpark: pip install pyspark
 *   Scikit-learn: pip install scikit-learn
 *   Pandas: pip install pandas
-*   matplot: pip install matplotlib
-*   seaborn: pip install seaborn
+*   Matplot: pip install matplotlib
+*   Seaborn: pip install seaborn
 
 
 ### **Acknowledgments**
