@@ -26,7 +26,7 @@ In this project, I examined the customer data of Sparkify, an online music app s
 1. Are there any differences between churned and non-churned customers in their demographic and paid service status?
 2. Are there any differences between churned and non-churned customers in their activities on the site?
 3. What is the best machine learning model that predicts customer churn for the data?
-4. What are the most important feature?
+4. What are the most important features?
 
 **Dataset used:**
 
