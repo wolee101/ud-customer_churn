@@ -1,22 +1,20 @@
 README.md - Customer churn prediction using Spark
 
 
-##
-**Project Title**
+## **Project Title**
 
 Predicting Customer Churn (Udacity Data Science Course Capstone project).
 
 
-##
-**Description**
+## **Description**
 
 
-### **Goal**
+**Goal**
 
 The goal of this capstone project is to build a model that predicts customer segments that are likely to churn by utilizing the knowledge and skills learned throughout the Data Science Nanodegree Program. Pyspark was used in Jupyter notebook launched on AWS to take advantage of the fast distributed data processing power of Spark.
 
 
-### **Overview**
+**Overview**
 
 What is customer churn? Simply put, customer churn is a loss of customers. In the world of business, customer churn is a big concern because it is directly related to profitability. When customers discontinue service or chose a competitor, it leads to decreases in revenue. The difficulty is determining the cause of such customer attrition because it is likely to be a combination of multiple factors, not a single cause.
 
